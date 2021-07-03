@@ -1,0 +1,13 @@
+.cat {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+
+  img {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+  }
+}

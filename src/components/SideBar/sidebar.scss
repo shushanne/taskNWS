@@ -1,0 +1,14 @@
+@import "src/sass/vars";
+
+.sidebar {
+   display: flex;
+   flex-direction: column;
+   padding: 50px 10px 0 50px;
+   .nav{
+      text-decoration: none;
+      color: $primary-color;
+   }
+   .nav-active {
+      color: $secondary-color;
+   }
+}
